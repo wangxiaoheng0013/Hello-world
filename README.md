@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hi Humans!
+
+It's the first to use the git.
